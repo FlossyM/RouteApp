@@ -1,0 +1,13 @@
+
+.tab_main{
+  padding: 10px 10px 0;
+  background: #d95950;
+}
+
+.tab_main a {
+
+  color:white;
+}
+.tab_main a:hover {
+  background-color: pink;
+}
